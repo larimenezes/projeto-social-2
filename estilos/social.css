@@ -19,7 +19,7 @@ img {
 
 a {
     display: block; /* para o "acesse" ficar embaixo*/
-    background-color: darkred;
+    background-color: rgb(235, 90, 0);
     color: white;
     padding: 20px;
     text-align: center;
@@ -29,5 +29,5 @@ a {
 }
 
 a:hover {
-    background-color: red;
+    background-color: rgb(255, 140, 0);
 }
